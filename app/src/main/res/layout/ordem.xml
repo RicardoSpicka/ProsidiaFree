@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".Tonica">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp"
+        tools:context=".Tonica">
+
+        <TextView
+            android:id="@+id/titulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:fontFamily="@font/font"
+            android:text="AFIRMAÇÃO OU ORDEM ?"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="26dp" />
+
+        <TextView
+            android:id="@+id/separador"
+            android:layout_below="@id/titulo"
+            android:layout_width="310dp"
+            android:layout_height="3dp"
+            android:layout_centerHorizontal="true"
+            android:background="#9C9999"/>
+
+        <TextView
+            android:id="@+id/desafio"
+            android:layout_below="@id/separador"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Pergunta"
+            android:fontFamily="@font/font"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="16dp"/>
+
+        <ImageView
+            android:id="@+id/imagem"
+            android:layout_width="140dp"
+            android:layout_height="100dp"
+            android:layout_below="@id/desafio"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp" />
+
+        <ImageView
+            android:id="@+id/toca"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_below="@id/imagem"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/tocar" />
+
+        <LinearLayout
+            android:id="@+id/grupo"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/toca"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp">
+
+
+            <RelativeLayout
+                android:id="@+id/botaoresp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_alignParentLeft="true"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/botao01"
+                    android:layout_width="110dp"
+                    android:layout_height="50dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="20dp"
+                    android:background="@drawable/ord01"
+                    android:onClick="afirmacao" />
+
+                <ImageButton
+                    android:id="@+id/botao02"
+                    android:layout_width="110dp"
+                    android:layout_height="50dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/ord02"
+                    android:onClick="ordem" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/acertos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/grupo"
+            android:layout_marginTop="25dp"
+            android:fontFamily="@font/font"
+            android:text="Acertos :"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/resposta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/grupo"
+            android:layout_marginTop="60dp"
+            android:fontFamily="@font/font"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="22dp"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/botaoComoJogar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:layout_marginTop="30dp"
+            android:fontFamily="@font/font"
+            android:layout_centerInParent="true"
+            android:text="Como Jogar"
+            android:layout_below="@id/acertos"
+            android:onClick="checkComoJogar"
+            android:textColor="#FFFFFF"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/acertos">
+
+            <TextView
+                android:id="@+id/fim"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/sair"
+                android:clickable="true"
+                android:onClick="sair" />
+
+            <TextView
+                android:id="@+id/home"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/homef"
+                android:clickable="true"
+                android:onClick="menu" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>
+

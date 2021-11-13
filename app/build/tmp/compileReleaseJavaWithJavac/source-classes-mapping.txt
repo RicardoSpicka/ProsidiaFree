@@ -1,0 +1,35 @@
+com/fonoaudiologia/prosodiapp/BuildConfig.java
+ com.fonoaudiologia.prosodiapp.BuildConfig
+com/fonoaudiologia/prosodiapp/Resultados.java
+ com.fonoaudiologia.prosodiapp.Resultados
+com/fonoaudiologia/prosodiapp/Ordem.java
+ com.fonoaudiologia.prosodiapp.Ordem
+ com.fonoaudiologia.prosodiapp.Ordem$1
+ com.fonoaudiologia.prosodiapp.Ordem$2
+ com.fonoaudiologia.prosodiapp.Ordem$3
+ com.fonoaudiologia.prosodiapp.Ordem$4
+ com.fonoaudiologia.prosodiapp.Ordem$5
+com/fonoaudiologia/prosodiapp/Tonica.java
+ com.fonoaudiologia.prosodiapp.Tonica
+ com.fonoaudiologia.prosodiapp.Tonica$1
+ com.fonoaudiologia.prosodiapp.Tonica$2
+ com.fonoaudiologia.prosodiapp.Tonica$3
+ com.fonoaudiologia.prosodiapp.Tonica$4
+ com.fonoaudiologia.prosodiapp.Tonica$5
+ com.fonoaudiologia.prosodiapp.Tonica$6
+ com.fonoaudiologia.prosodiapp.Tonica$7
+ com.fonoaudiologia.prosodiapp.Tonica$8
+com/fonoaudiologia/prosodiapp/Pergunta.java
+ com.fonoaudiologia.prosodiapp.Pergunta
+ com.fonoaudiologia.prosodiapp.Pergunta$1
+ com.fonoaudiologia.prosodiapp.Pergunta$2
+ com.fonoaudiologia.prosodiapp.Pergunta$3
+ com.fonoaudiologia.prosodiapp.Pergunta$4
+ com.fonoaudiologia.prosodiapp.Pergunta$5
+ com.fonoaudiologia.prosodiapp.Pergunta$6
+ com.fonoaudiologia.prosodiapp.Pergunta$7
+ com.fonoaudiologia.prosodiapp.Pergunta$8
+com/fonoaudiologia/prosodiapp/MenuActivity.java
+ com.fonoaudiologia.prosodiapp.MenuActivity
+ com.fonoaudiologia.prosodiapp.MenuActivity$1
+ com.fonoaudiologia.prosodiapp.MenuActivity$2

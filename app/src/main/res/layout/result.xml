@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    tools:context=".Tonica">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp"
+        tools:context=".Tonica">
+
+        <TextView
+            android:id="@+id/result"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="RESULTADOS"
+            android:fontFamily="@font/font"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="30dp"/>
+
+        <TextView
+            android:id="@+id/perguntas"
+            android:layout_below="@+id/result"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:text="Total de Perguntas"
+            android:fontFamily="@font/font"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:id="@+id/acertos"
+            android:layout_below="@+id/perguntas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Total de Acertos"
+            android:fontFamily="@font/font"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:id="@+id/aprov"
+            android:layout_below="@+id/acertos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="26dp"
+            android:text="Aproveitamento de:"
+            android:fontFamily="@font/font"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="30dp"/>
+
+        <TextView
+            android:id="@+id/percent"
+            android:layout_below="@+id/aprov"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="20 %"
+            android:fontFamily="@font/font"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="40dp"/>
+
+        <ImageView
+            android:id="@+id/imag"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_below="@+id/percent"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="30dp"/>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imag">
+
+            <TextView
+                android:id="@+id/fim"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/sair"
+                android:clickable="true"
+                android:onClick="sair" />
+
+            <TextView
+                android:id="@+id/home"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/homef"
+                android:clickable="true"
+                android:onClick="menu" />
+
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

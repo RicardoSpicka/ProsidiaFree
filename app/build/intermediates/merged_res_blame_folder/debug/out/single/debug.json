@@ -1,0 +1,714 @@
+[
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_rev01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\rev01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_cav01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\cav01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_onip.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\onip.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_can02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\can02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_uru01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\uru01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_opc01.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\opc01.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\layout_ordem.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\layout\\ordem.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_jac01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\jac01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_med02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\med02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_teacher.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\teacher.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_cavalo.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\cavalo.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_banana.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\banana.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_dom02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\dom02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_in.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_mar02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\mar02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_uru02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\uru02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_tom03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\tom03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_out.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_fosforo.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\fosforo.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_aba03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\aba03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\layout_quiz_main.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\layout\\quiz_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_cao01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\cao01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_can01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\can01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_errado.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\errado.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_med01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\med01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_alt03.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\alt03.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_rev02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\rev02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_violao.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\violao.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_dom01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\dom01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_coro.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\coro.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_professor.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\professor.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_homef.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\homef.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_opc02.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\opc02.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_bana.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\bana.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_cava.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\cava.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_sad.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\sad.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_cora.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\cora.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_martelo.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\martelo.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_cav03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\cav03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_jan02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\jan02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_rev03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\rev03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_xic03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\xic03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_alt02.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\alt02.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_caoa.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\caoa.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_opc03.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\opc03.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_revolver.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\revolver.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_cao03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\cao03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_can03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\can03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_urubu.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\urubu.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_jacp.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\jacp.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_xicara.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\xicara.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_aba01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\aba01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_tom02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\tom02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_lamo.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\lamo.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_ocu02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\ocu02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_oculos.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\oculos.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_icon_launcher.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-hdpi\\icon_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\font_poetsenone.ttf.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\font\\poetsenone.ttf"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_cavp.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\cavp.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_abacaxi.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\abacaxi.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_urup.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\urup.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\layout_result.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\layout\\result.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_nerd.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\nerd.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_lama.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\lama.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_lam03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\lam03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_janela.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\janela.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_viop.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\viop.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_sair.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\sair.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_jac02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\jac02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\layout_splash_screen.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_fos01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\fos01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_oni02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\oni02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_cachorro.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\cachorro.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_corp.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\corp.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_banp.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\banp.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_tocar.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\tocar.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_mar01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\mar01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_lampada.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\lampada.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_dom03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\dom03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_cor03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\cor03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_ban03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\ban03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\layout_pergunta.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\layout\\pergunta.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_med03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\med03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_bro01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\bro01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_tomp.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\tomp.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_vioa.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\vioa.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_doma.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\doma.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_cor02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\cor02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_fos03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\fos03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_erro01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\erro01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_lam02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\lam02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_ban02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\ban02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\layout_menu_principal.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\layout\\menu_principal.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_xic01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\xic01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_canguru.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\canguru.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_domp.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\domp.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_certo.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\certo.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_ord01.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\ord01.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_jan03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\jan03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_vio03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\vio03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_bro02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\bro02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_cano.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\cano.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_toma.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\toma.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_vio01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\vio01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_oni03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\oni03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_cor01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\cor01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_fos02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\fos02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_ocu01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\ocu01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_jac03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\jac03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_lamp.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\lamp.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_lam01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\lam01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_vioo.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\vioo.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_revo.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\revo.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_ord02.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\ord02.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_brocolis.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\brocolis.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\anim_mover_direita.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\anim\\mover_direita.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_cana.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\cana.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_urua.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\urua.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_domino.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\domino.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\font_font2.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\font\\font2.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_mar03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\mar03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_bro03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\bro03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_reva.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\reva.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_ban01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\ban01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_uruo.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\uruo.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_brop.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\brop.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_coracao.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\coracao.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_fundo.jpg.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\fundo.jpg"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_menu.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_tomate.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\tomate.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_revp.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\revp.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_oni01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\oni01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_broa.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\broa.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_jacare.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\jacare.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_jan01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\jan01.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\anim_mover_esquerda.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\anim\\mover_esquerda.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_jaca.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\jaca.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_onia.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\onia.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_alt01.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\alt01.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_onibus.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\onibus.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_caop.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\caop.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_onio.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\onio.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_cav02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\cav02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\font_font.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\font\\font.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_domo.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\domo.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\font_neoradical.ttf.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\font\\neoradical.ttf"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\layout_tonica.xml.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\layout\\tonica.xml"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_jaco.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\jaco.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_cao02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\cao02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_canp.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\canp.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_medico.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\medico.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_vio02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\vio02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_happy.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\happy.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_xic02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\xic02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_aba02.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\aba02.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_ocu03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\ocu03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_uru03.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\uru03.mp3"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\drawable_tenso.png.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\drawable\\tenso.png"
+    },
+    {
+        "merged": "D:\\Android\\ProsodiappFree\\app\\build\\intermediates\\merged_res\\debug\\raw_tom01.mp3.flat",
+        "source": "D:\\Android\\ProsodiappFree\\app\\src\\main\\res\\raw\\tom01.mp3"
+    }
+]

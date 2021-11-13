@@ -1,0 +1,106 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.fonoaudiologia"
+4    android:versionCode="5"
+5    android:versionName="5.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:5:5-51:19
+12        android:allowBackup="true"
+12-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:7:9-77
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+15-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:8:9-42
+16        android:icon="@mipmap/icon_launcher"
+16-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:9:9-45
+17        android:label="@string/app_name"
+17-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:10:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:11:9-54
+19        android:supportsRtl="true"
+19-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:12:9-35
+20        android:testOnly="true"
+21        android:theme="@style/Theme.Prosodiapp" >
+21-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:13:9-48
+22        <activity
+22-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:14:9-23:20
+23            android:name="com.fonoaudiologia.prosodiappfree.SplashScreen"
+23-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:15:13-74
+24            android:configChanges="orientation|keyboard|keyboardHidden"
+24-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:16:13-72
+25            android:exported="true"
+25-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:17:13-36
+26            android:screenOrientation="portrait" >
+26-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:18:13-49
+27            <intent-filter>
+27-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:19:13-22:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:20:17-69
+28-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:20:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:21:17-77
+30-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:21:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:25:9-29:61
+34            android:name="com.fonoaudiologia.prosodiappfree.MenuActivity"
+34-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:26:13-74
+35            android:configChanges="orientation|keyboard|keyboardHidden"
+35-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:27:13-72
+36            android:exported="true"
+36-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:28:13-36
+37            android:screenOrientation="portrait" />
+37-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:29:13-49
+38        <activity
+38-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:31:9-35:61
+39            android:name="com.fonoaudiologia.prosodiappfree.Tonica"
+39-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:32:13-68
+40            android:configChanges="orientation|keyboard|keyboardHidden"
+40-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:33:13-72
+41            android:exported="true"
+41-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:34:13-36
+42            android:screenOrientation="portrait" />
+42-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:35:13-49
+43        <activity
+43-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:36:9-40:61
+44            android:name="com.fonoaudiologia.prosodiappfree.Pergunta"
+44-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:37:13-70
+45            android:configChanges="orientation|keyboard|keyboardHidden"
+45-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:38:13-72
+46            android:exported="true"
+46-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:39:13-36
+47            android:screenOrientation="portrait" />
+47-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:40:13-49
+48        <activity
+48-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:41:9-45:61
+49            android:name="com.fonoaudiologia.prosodiappfree.Ordem"
+49-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:42:13-67
+50            android:configChanges="orientation|keyboard|keyboardHidden"
+50-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:43:13-72
+51            android:exported="true"
+51-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:44:13-36
+52            android:screenOrientation="portrait" />
+52-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:45:13-49
+53        <activity
+53-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:46:9-50:61
+54            android:name="com.fonoaudiologia.prosodiappfree.Resultados"
+54-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:47:13-72
+55            android:configChanges="orientation|keyboard|keyboardHidden"
+55-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:48:13-72
+56            android:exported="true"
+56-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:49:13-36
+57            android:screenOrientation="portrait" />
+57-->D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:50:13-49
+58    </application>
+59
+60</manifest>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".Tonica">
+
+        <TextView
+            android:id="@+id/titulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/font"
+            android:layout_marginLeft="10dp"
+            android:text="ProsodiApp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@color/white"
+            android:textSize="42dp" />
+
+        <TextView
+            android:id="@+id/titulo2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/titulo"
+            android:fontFamily="@font/font2"
+            android:text="Free"
+            android:textColor="@android:color/holo_red_dark"
+            android:textSize="58dp" />
+
+
+        <Button
+            android:id="@+id/opc01"
+            android:layout_width="180dp"
+            android:layout_height="90dp"
+            android:textSize="16dp"
+            android:layout_below="@id/titulo"
+            android:layout_marginTop="30dp"
+            android:backgroundTint="#956245"
+            android:fontFamily="@font/font"
+            android:layout_centerInParent="true"
+            android:onClick="tonica"
+            android:text="Acerte a Tônica"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/opc02"
+            android:layout_width="180dp"
+            android:layout_height="90dp"
+            android:textSize="16dp"
+            android:layout_below="@id/opc01"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#a0907f"
+            android:fontFamily="@font/font"
+            android:onClick="pergunta"
+            android:text="Qual é a pergunta ?"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/opc03"
+            android:layout_width="180dp"
+            android:layout_height="90dp"
+            android:textSize="16dp"
+            android:layout_below="@id/opc02"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#956245"
+            android:fontFamily="@font/font"
+            android:layout_centerInParent="true"
+            android:onClick="ordem"
+            android:text="Afirmação ou Ordem ?"
+            android:textColor="#FFFFFF"/>
+
+        <TextView
+            android:id="@+id/sair"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_below="@id/opc03"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/sair"
+            android:clickable="true"
+            android:onClick="sair" />
+
+
+        <LinearLayout
+            android:id="@+id/info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sair"
+            android:layout_marginTop="20dp"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/botaoFinalidade"
+                android:layout_width="110dp"
+                android:layout_marginLeft="10dp"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/font"
+                android:text="Finalidade do Jogo"
+                android:onClick="checkFinalidade"
+                android:textColor="#FFFFFF"
+                android:textSize="12dp" />
+
+            <Button
+                android:id="@+id/botaoSobre"
+                android:layout_width="110dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:fontFamily="@font/font"
+                android:text="Sobre o jogo"
+                android:onClick="checkSobre"
+                android:textColor="#FFFFFF"
+                android:textSize="12dp" />
+
+        </LinearLayout>
+
+
+
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>

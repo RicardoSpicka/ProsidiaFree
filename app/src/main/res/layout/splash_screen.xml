@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/titulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/font"
+            android:layout_marginLeft="10dp"
+            android:text="ProsodiApp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@color/white"
+            android:textSize="42dp" />
+
+        <TextView
+            android:id="@+id/titulo2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/titulo"
+            android:fontFamily="@font/font2"
+            android:text="Free"
+            android:textColor="@android:color/holo_red_dark"
+            android:textSize="58dp" />
+
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_below="@id/titulo"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/jacare"/>
+
+        <TextView
+            android:id="@+id/text01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/logo"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="50dp"
+            android:fontFamily="@font/font"
+            android:text="Essa é uma versão FREE com limitações.\nDisponível para conhecer o aplicativo."
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/text02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text01"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="50dp"
+            android:fontFamily="@font/font"
+            android:text="ADQUIRA A VERSÃO COMPLETA NA\nGooglePlay"
+            android:textAlignment="center"
+            android:textColor="@android:color/holo_green_light"
+            android:textSize="22dp" />
+
+        <TextView
+            android:id="@+id/clique"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text02"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="30dp"
+            android:fontFamily="@font/font"
+            android:text="@string/hyperlink"
+            android:textAlignment="center"
+            android:clickable="true"
+            android:textColor="@android:color/holo_green_light"
+            android:textSize="22dp" />
+
+        <TextView
+            android:id="@+id/count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/clique"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="30dp"
+            android:fontFamily="@font/font"
+            android:text="10"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18dp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

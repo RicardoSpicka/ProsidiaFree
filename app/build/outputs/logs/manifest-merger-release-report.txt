@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.google.android.material:material:1.3.0] D:\Android\ProsodiappSuper\caches\transforms-3\14a476d1e64db65dc92d9d838e73c7d2\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Android\ProsodiappSuper\caches\transforms-3\f6c1c56d068d68dcfbb90605b4deb6c3\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\Android\ProsodiappSuper\caches\transforms-3\998f5a5922de65d574eeb5fb6a982740\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\3ddabfc392275216660f4b3cc6052c0d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\1d5c4bd1f27412826dbc7e981408c6bc\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\0ab7fb48b072df75119feaf2f0c6f6f7\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\Android\ProsodiappSuper\caches\transforms-3\715bc670f6d6d789809752712bb85844\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\17b0e2d1425f84fa1fa985ca09cbb003\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\72da229d37c77372525da040b5c10b7b\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\3d88c91bd5ba75d3a0eba87ecced9c07\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] D:\Android\ProsodiappSuper\caches\transforms-3\f4185f87d7672f47d49979ba9d7943e2\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\29525f7127294abba0c06b6cb24f3615\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\8596e9f221d862b1894b6fa93b3ac7d5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\61a3597dafe2c0c584e7df7a764e0934\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\a0bf795c9336e29281e2ba61758ccbd6\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\9bb4379cfbd2855ee9aff7fea804eee4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\23e6d57f228e6773f67844b3f620c0e6\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\346c6542cee51c0c073d08c525280466\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\3157e239eb31e8b1672d39ba9d7d7606\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\14012aef9d5e15a4dbb6850af33cc0a9\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] D:\Android\ProsodiappSuper\caches\transforms-3\ae8f0200e48d9152652379f8db5c23e1\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\a7e2cddbb07405a27dfd6da91320664f\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\dfbb564258ae882acb2dc4b419aeb23f\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\6e4a190f7999d6d4247fdbb4ad741c12\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\ad0d1b182899c015bbb883207e97d3f1\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\915baf7579b1cf7117ada386f454d156\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\a49abe5190d0ddd294067906651adf26\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\cbc85052eb0c82550e795119208f43ff\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\6ae12152e4763bfaf25db7542b2981db\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\f5b0207e27d111adfc8fe0798ba3f31d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\aa8ab3ce887f3f37d0fb75a40acddaa7\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\0e4e05aead28e42269885a1565367b84\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\f71413a995aadb74eeb43861a950027a\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:5:5-51:19
+MERGED from [com.google.android.material:material:1.3.0] D:\Android\ProsodiappSuper\caches\transforms-3\14a476d1e64db65dc92d9d838e73c7d2\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] D:\Android\ProsodiappSuper\caches\transforms-3\14a476d1e64db65dc92d9d838e73c7d2\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Android\ProsodiappSuper\caches\transforms-3\f6c1c56d068d68dcfbb90605b4deb6c3\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Android\ProsodiappSuper\caches\transforms-3\f6c1c56d068d68dcfbb90605b4deb6c3\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] D:\Android\ProsodiappSuper\caches\transforms-3\ae8f0200e48d9152652379f8db5c23e1\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] D:\Android\ProsodiappSuper\caches\transforms-3\ae8f0200e48d9152652379f8db5c23e1\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\a7e2cddbb07405a27dfd6da91320664f\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\a7e2cddbb07405a27dfd6da91320664f\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:8:9-42
+	android:supportsRtl
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:10:9-41
+	android:appComponentFactory
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:7:9-77
+	android:roundIcon
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:13:9-48
+activity#com.fonoaudiologia.prosodiappfree.SplashScreen
+ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:screenOrientation
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:18:13-49
+	android:exported
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:17:13-36
+	android:configChanges
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:16:13-72
+	android:name
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:15:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.fonoaudiologia.prosodiappfree.MenuActivity
+ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:25:9-29:61
+	android:screenOrientation
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:29:13-49
+	android:exported
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:28:13-36
+	android:configChanges
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:26:13-74
+activity#com.fonoaudiologia.prosodiappfree.Tonica
+ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:31:9-35:61
+	android:screenOrientation
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:35:13-49
+	android:exported
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:34:13-36
+	android:configChanges
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:33:13-72
+	android:name
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:32:13-68
+activity#com.fonoaudiologia.prosodiappfree.Pergunta
+ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:36:9-40:61
+	android:screenOrientation
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:40:13-49
+	android:exported
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:39:13-36
+	android:configChanges
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:38:13-72
+	android:name
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:37:13-70
+activity#com.fonoaudiologia.prosodiappfree.Ordem
+ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:41:9-45:61
+	android:screenOrientation
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:45:13-49
+	android:exported
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:44:13-36
+	android:configChanges
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:43:13-72
+	android:name
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:42:13-67
+activity#com.fonoaudiologia.prosodiappfree.Resultados
+ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:46:9-50:61
+	android:screenOrientation
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:50:13-49
+	android:exported
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:49:13-36
+	android:configChanges
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:48:13-72
+	android:name
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml:47:13-72
+uses-sdk
+INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] D:\Android\ProsodiappSuper\caches\transforms-3\14a476d1e64db65dc92d9d838e73c7d2\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] D:\Android\ProsodiappSuper\caches\transforms-3\14a476d1e64db65dc92d9d838e73c7d2\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Android\ProsodiappSuper\caches\transforms-3\f6c1c56d068d68dcfbb90605b4deb6c3\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Android\ProsodiappSuper\caches\transforms-3\f6c1c56d068d68dcfbb90605b4deb6c3\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\Android\ProsodiappSuper\caches\transforms-3\998f5a5922de65d574eeb5fb6a982740\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\Android\ProsodiappSuper\caches\transforms-3\998f5a5922de65d574eeb5fb6a982740\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\3ddabfc392275216660f4b3cc6052c0d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\3ddabfc392275216660f4b3cc6052c0d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\1d5c4bd1f27412826dbc7e981408c6bc\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\1d5c4bd1f27412826dbc7e981408c6bc\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\0ab7fb48b072df75119feaf2f0c6f6f7\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\0ab7fb48b072df75119feaf2f0c6f6f7\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\Android\ProsodiappSuper\caches\transforms-3\715bc670f6d6d789809752712bb85844\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\Android\ProsodiappSuper\caches\transforms-3\715bc670f6d6d789809752712bb85844\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\17b0e2d1425f84fa1fa985ca09cbb003\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\17b0e2d1425f84fa1fa985ca09cbb003\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\72da229d37c77372525da040b5c10b7b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\72da229d37c77372525da040b5c10b7b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\3d88c91bd5ba75d3a0eba87ecced9c07\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\3d88c91bd5ba75d3a0eba87ecced9c07\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Android\ProsodiappSuper\caches\transforms-3\f4185f87d7672f47d49979ba9d7943e2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Android\ProsodiappSuper\caches\transforms-3\f4185f87d7672f47d49979ba9d7943e2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\29525f7127294abba0c06b6cb24f3615\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\29525f7127294abba0c06b6cb24f3615\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\8596e9f221d862b1894b6fa93b3ac7d5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\8596e9f221d862b1894b6fa93b3ac7d5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\61a3597dafe2c0c584e7df7a764e0934\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\61a3597dafe2c0c584e7df7a764e0934\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\a0bf795c9336e29281e2ba61758ccbd6\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\a0bf795c9336e29281e2ba61758ccbd6\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\9bb4379cfbd2855ee9aff7fea804eee4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\9bb4379cfbd2855ee9aff7fea804eee4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\23e6d57f228e6773f67844b3f620c0e6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\23e6d57f228e6773f67844b3f620c0e6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\346c6542cee51c0c073d08c525280466\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\346c6542cee51c0c073d08c525280466\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\3157e239eb31e8b1672d39ba9d7d7606\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\3157e239eb31e8b1672d39ba9d7d7606\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\14012aef9d5e15a4dbb6850af33cc0a9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\14012aef9d5e15a4dbb6850af33cc0a9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] D:\Android\ProsodiappSuper\caches\transforms-3\ae8f0200e48d9152652379f8db5c23e1\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] D:\Android\ProsodiappSuper\caches\transforms-3\ae8f0200e48d9152652379f8db5c23e1\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\a7e2cddbb07405a27dfd6da91320664f\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\a7e2cddbb07405a27dfd6da91320664f\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\dfbb564258ae882acb2dc4b419aeb23f\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\dfbb564258ae882acb2dc4b419aeb23f\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\6e4a190f7999d6d4247fdbb4ad741c12\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\Android\ProsodiappSuper\caches\transforms-3\6e4a190f7999d6d4247fdbb4ad741c12\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\ad0d1b182899c015bbb883207e97d3f1\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\ad0d1b182899c015bbb883207e97d3f1\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\915baf7579b1cf7117ada386f454d156\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\915baf7579b1cf7117ada386f454d156\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\a49abe5190d0ddd294067906651adf26\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\a49abe5190d0ddd294067906651adf26\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\cbc85052eb0c82550e795119208f43ff\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\cbc85052eb0c82550e795119208f43ff\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\6ae12152e4763bfaf25db7542b2981db\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\6ae12152e4763bfaf25db7542b2981db\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\f5b0207e27d111adfc8fe0798ba3f31d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\f5b0207e27d111adfc8fe0798ba3f31d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\aa8ab3ce887f3f37d0fb75a40acddaa7\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\aa8ab3ce887f3f37d0fb75a40acddaa7\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\0e4e05aead28e42269885a1565367b84\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\0e4e05aead28e42269885a1565367b84\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\f71413a995aadb74eeb43861a950027a\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\Android\ProsodiappSuper\caches\transforms-3\f71413a995aadb74eeb43861a950027a\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\ProsodiappFree\app\src\main\AndroidManifest.xml
